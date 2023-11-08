@@ -23,7 +23,3 @@
 
 <a href="https://github.com/1ntrspct" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ntrspct&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1ntrspct/1ntrspct.github.io/main/github-user-contribution.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1ntrspct/1ntrspct.github.io/main/github-user-contribution.svg">
-</picture>
