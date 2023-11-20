@@ -1,6 +1,5 @@
 
 ![counter](https://moe-counter.glitch.me/get/@1ntrspct?theme=rule34)
-* 🌍  I'm based in Russian Federation
 * ✉️  You can contact me at [africanfemboy@gmail.com](mailto:africanfemboy@gmail.com)
 
 ### Skills
