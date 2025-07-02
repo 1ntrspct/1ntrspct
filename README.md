@@ -1,24 +1,14 @@
+### Core Technologies  
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
+[![ASM](https://img.shields.io/badge/Assembly-2C5D2B?style=flat&logo=assemblyscript&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)]()
 
-  
-![counter](https://moe-counter.glitch.me/get/@1ntrspct?theme=rule34)
-* ✉️  You can contact me at [africanfemboy@gmail.com](mailto:africanfemboy@gmail.com)
 
-<p align="center">
-Skills
-</p>
+### GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intrspct&layout=compact&theme=dark&hide_border=true)](https://github.com/1ntrspct)  
+[![Streak](https://streak-stats.demolab.com?user=1ntrspct&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 
-<p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-  
-### Socials
-</a> <a href="https://www.github.com/1ntrspct" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://t.me/intrspct" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" width="32" height="32" />
-
-</a> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/1ntrspct/1ntrspct/blob/0d86fb8120d85e454708143673d81e2f56270cfd/Discord.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/1ntrspct/1ntrspct/blob/0d86fb8120d85e454708143673d81e2f56270cfd/Discord.png" /> <img src="https://github.com/1ntrspct/1ntrspct/blob/0d86fb8120d85e454708143673d81e2f56270cfd/Discord.png" width="150" height="60" />
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/1ntrspct"><img src="https://github-readme-stats.vercel.app/api?username=1ntrspct&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="1ntrspct's GitHub stats" /></a>
-
-<a href="https://github.com/1ntrspct" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ntrspct&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Contact  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@intrspct)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:africanfemboy@gmail.com)  
