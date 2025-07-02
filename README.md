@@ -7,7 +7,7 @@
 
 ### GitHub Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intrspct&layout=compact&theme=dark&hide_border=true)](https://github.com/1ntrspct)  
-[![Streak](https://streak-stats.demolab.com?user=1ntrspct&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+ 
 
 ### Contact  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@intrspct)  
